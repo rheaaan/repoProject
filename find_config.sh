@@ -1,0 +1,3 @@
+ls -l /etc/*.conf
+
+
